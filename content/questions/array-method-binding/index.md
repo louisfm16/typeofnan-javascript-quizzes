@@ -11,6 +11,7 @@ answers:
   - 'a b c'
   - 'An error is thrown'
   - 'Something else'
+allocatedTime: 40
 ---
 
 What gets logged in the following scenario?

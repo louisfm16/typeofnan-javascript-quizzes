@@ -11,6 +11,7 @@ answers:
   - '"dev" // correct'
   - 'undefined'
   - 'An error is thrown'
+allocatedTime: 30
 ---
 
 In the following example, we attempt to get part of our URL's domain name. What ends up being logged?

@@ -10,6 +10,7 @@ answers:
   - 'HOF only'
   - 'Both IIFE and HOF // correct'
   - 'Neither'
+allocatedTime: 90
 ---
 
 Does the following snippet illustrate an Immediately-Invoked Function Expression (IIFE), a Higher-Order Function (HOF), both, or neither?

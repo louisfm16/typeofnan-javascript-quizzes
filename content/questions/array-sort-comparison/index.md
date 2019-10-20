@@ -11,6 +11,7 @@ answers:
   - true true false // correct
   - false false false
   - true false true
+allocatedTime: 60
 ---
 
 Consider the following arrays. What gets logged in various sorting conditions?

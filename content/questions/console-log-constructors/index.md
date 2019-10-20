@@ -10,6 +10,7 @@ answers:
   - 'object object number'
   - 'object object object'
   - 'something else  // correct'
+allocatedTime: 30
 ---
 
 Consider the following code block. What gets logged?

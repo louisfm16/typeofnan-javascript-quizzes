@@ -8,6 +8,7 @@ date: '2019-09-29'
 answers:
   - 'Yes // correct'
   - 'No'
+allocatedTime: 30
 ---
 
 Let's say `myFunc` is a function, `val1` is a variable, and `val2` is a variable. Is the following syntax allowed in JavaScript?

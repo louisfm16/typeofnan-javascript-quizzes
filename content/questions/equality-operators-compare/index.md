@@ -8,6 +8,7 @@ date: '2019-10-5'
 answers:
   - 'true'
   - 'false // correct'
+allocatedTime: 30
 ---
 
 `a` and `b` are two constants. What will be the output on the console?

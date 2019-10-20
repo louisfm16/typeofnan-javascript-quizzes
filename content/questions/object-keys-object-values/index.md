@@ -9,6 +9,7 @@ date: '2019-09-29'
 answers:
   - 'true'
   - 'false // correct'
+allocatedTime: 30
 ---
 
 Consider the following object.

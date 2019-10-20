@@ -9,6 +9,7 @@ answers:
   - 'B // correct'
   - 'C'
   - 'D'
+allocatedTime: 30
 ---
 
 Which of the following is a valid way to delete property `color` from the `car` object?

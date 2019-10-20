@@ -9,6 +9,7 @@ date: '2019-10-10'
 answers:
   - '[1, 2, 3, 4, 5, 6, [7], 8, 9, 10, 12] // correct'
   - '[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12]'
+allocatedTime: 30
 ---
 
 Consider the following array get a with depth 5, what will get logged.

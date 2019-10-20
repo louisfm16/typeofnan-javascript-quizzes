@@ -9,6 +9,7 @@ date: '2019-09-27'
 answers:
   - '[{a: 1}, {a: 1}] // correct'
   - '[{a: 1}]'
+allocatedTime: 60
 ---
 
 Consider the following `Set` of objects spread into a new array. What gets logged?

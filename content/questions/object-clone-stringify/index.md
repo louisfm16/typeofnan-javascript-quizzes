@@ -11,6 +11,7 @@ answers:
   - 'true true false true // correct'
   - 'false false false false'
 
+allocatedTime: 30
 ---
 
 Consider objects `a` and `b` below. What gets logged?
