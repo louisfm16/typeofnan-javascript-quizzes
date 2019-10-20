@@ -22,7 +22,7 @@ const QuestionTemplate = props => {
   const { title } = post.frontmatter;
 
   Gamify.on = true;
-  Gamify.startCountdown(props.data.markdownRemark.allocatedTime, 1);
+  Gamify.startCountdown(props.data.markdownRemark.frontmatter.allocatedTime, 1);
 
   const {
     selectedAnswer: selectedAnswerFromStorage

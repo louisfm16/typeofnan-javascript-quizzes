@@ -26,7 +26,7 @@ var Gamify = {
 
         this.interval = setInterval(function() {
             this.timeLeft = endTime.diff(moment(), "seconds", true);
-            // console.log(this.timeLeft);
+            console.log(this.timeLeft);
 
             if(this.timeLeft <= 0) {
                 clearInterval(this.interval);
