@@ -10,6 +10,7 @@ answers:
   - '[{ firstName: "James" }]'
   - '[{ firstName: "Jonah" }] // correct'
   - 'Something else'
+allocatedTime: 45
 ---
 
 Consider the following array of objects... okay, well one object. What happens when we spread that array and change the `firstName` property on the 0-index object?

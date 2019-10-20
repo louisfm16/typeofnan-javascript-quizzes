@@ -9,6 +9,7 @@ answers:
   - '{ foo: "foo" } undefined // correct'
   - 'undefined { bar: "bar" }'
   - 'undefined undefined'
+allocatedTime: 30
 ---
 
 What will the `foo()` and `bar()` functions return when logged to the console together?

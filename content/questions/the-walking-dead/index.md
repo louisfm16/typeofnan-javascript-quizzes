@@ -11,6 +11,7 @@ answers:
   - 'An error is thrown'
   - 'undefined // correct'
   - 'Something different is logged'
+allocatedTime: 30
 ---
 
 What is the return of the following `console.log`?

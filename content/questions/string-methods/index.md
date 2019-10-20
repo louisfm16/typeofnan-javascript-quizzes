@@ -9,6 +9,7 @@ answers:
   - 'indexOf // correct'
   - 'find'
   - 'none'
+allocatedTime: 30
 ---
 
 String methods are used to work with string in Javascript. Which method would be used to find a specified value and return the position of the match?

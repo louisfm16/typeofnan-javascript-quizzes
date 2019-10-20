@@ -8,6 +8,7 @@ date: '2019-10-01'
 answers:
   - 'true // correct'
   - 'undefined'
+allocatedTime: 30
 ---
 
 When passing an object as an argument to a function, can the orginal object be mutated? In the following example, will `somePerson.valid` be `true` or `undefined`?

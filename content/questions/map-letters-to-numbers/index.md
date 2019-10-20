@@ -10,6 +10,7 @@ answers:
   - 'a, b, c'
   - '[1, 2, 3] // correct'
   - '[a, b, c]'
+allocatedTime: 30
 ---
 
 Consider the following mapping. What gets logged?

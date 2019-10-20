@@ -11,6 +11,7 @@ answers:
   - 'done! // correct'
   - 'JavaScript error'
   - 'Something else'
+allocatedTime: 30
 ---
 
 Consider the following async function and it's output, what will be displayed to the console when

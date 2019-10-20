@@ -8,6 +8,7 @@ date: '2019-09-29'
 answers:
   - 'true // correct'
   - 'false'
+allocatedTime: 30
 ---
 
 `a` and `b` are different objects with the same `firstname` property. Are these properties strictly equal to each other?

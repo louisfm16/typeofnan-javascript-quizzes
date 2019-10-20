@@ -10,6 +10,7 @@ answers:
   - '5 3'
   - '4 2 // correct'
   - '4 3'
+allocatedTime: 40
 ---
 
 In the following problem, we use the `Set` object and spread operator to create a new array. What gets logged (to consider: Are items forced to be unique? Are they sorted?)

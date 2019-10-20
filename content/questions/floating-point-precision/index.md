@@ -9,6 +9,7 @@ date: '2019-10-07'
 answers: 
   - 'true'
   - 'false // correct'
+allocatedTime: 30
 ---
 
 Consider the following scenario. What gets logged?

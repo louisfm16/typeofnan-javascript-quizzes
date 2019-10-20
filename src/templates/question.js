@@ -250,6 +250,7 @@ export const pageQuery = graphql`
         title
         answers
         date
+        allocatedTime
       }
     }
   }

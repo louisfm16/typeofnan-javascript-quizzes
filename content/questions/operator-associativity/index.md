@@ -12,6 +12,7 @@ answers:
   - false and false
   - undefined and undefined
   - SyntaxError
+allocatedTime: 30
 ---
 
 Given the following lines, what will be the output?

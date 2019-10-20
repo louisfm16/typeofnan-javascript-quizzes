@@ -9,6 +9,7 @@ answers:
   - 'B'
   - 'C // correct'
   - 'All of them'
+allocatedTime: 30
 ---
 
 Consider two arrays `a` and `b` below. Which option below is **NOT** correct to merge the arrays? 

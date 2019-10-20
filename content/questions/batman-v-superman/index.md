@@ -10,6 +10,7 @@ answers:
   - '"Superman"'
   - '"BatmanSuperman" // correct'
   - 'Nothing gets logged'
+allocatedTime: 60
 ---
 
 Consider the following `superheroMaker` function. What gets logged when we pass the following two inputs?

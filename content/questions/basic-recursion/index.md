@@ -10,6 +10,7 @@ answers:
   - 'ello World'
   - 'H'
   - 'd // correct'
+allocatedTime: 30
 ---
 
 Consider the following recursive function. If we pass the string `"Hello World"` to it, what gets logged?

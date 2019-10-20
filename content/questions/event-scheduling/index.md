@@ -11,6 +11,7 @@ answers:
   - '4, 2, 1, 3'
   - '1, 4, 3, 2 // correct'
   - '4, 3, 2, 1'
+allocatedTime: 30
 ---
 
 In what order will the numbers 1-4 be logged to the console when the code below is executed?

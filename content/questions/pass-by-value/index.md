@@ -11,6 +11,7 @@ answers:
   - 'roofsitting, "Lisa prefers Mark", Doggy'
   - 'roofsitting, "Lisa prefers Johnny", Doggy // correct'
   - 'football, "Lisa prefers Mark", Chris R'
+allocatedTime: 30
 ---
 
 When setting variables equal to each other and then changing one of them, does it change the other? Consider the following code. What is logged?

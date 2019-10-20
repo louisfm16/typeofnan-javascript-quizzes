@@ -8,6 +8,7 @@ answers:
   - 'You have 1 notification'
   - 'You have 1 notifications'
   - 'Something else // correct'
+allocatedTime: 45
 ---
 
 Let's display some notifications to our user! What gets logged in the following snippet?

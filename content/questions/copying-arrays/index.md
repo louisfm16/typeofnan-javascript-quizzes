@@ -12,6 +12,7 @@ answers:
   - 'A and B'
   - 'B and C // correct'
   - 'A, B, and C'
+allocatedTime: 30
 ---
 
 Which of the following methods are valid ways to copy `mainArray` ?

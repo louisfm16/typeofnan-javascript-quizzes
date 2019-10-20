@@ -10,6 +10,7 @@ answers:
   - '60'
   - '100'
   - '120 // correct'
+allocatedTime: 120
 ---
 
 Math time! What gets logged?
