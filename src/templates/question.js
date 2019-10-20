@@ -14,9 +14,15 @@ import correctBg from './correct.png';
 import incorrectBg from './incorrect.png';
 import { gaTrackAnswer } from '../utils/gaAnswerTracking';
 
+import Gamify from '../components/gamify';
+
+
 const QuestionTemplate = props => {
   const post = props.data.markdownRemark;
   const { title } = post.frontmatter;
+
+  Gamify.on = true;
+  Gamify.startCountdown(props.data.markdownRemark.allocatedTime, 1);
 
   const {
     selectedAnswer: selectedAnswerFromStorage
