@@ -8,6 +8,7 @@ answers:
   - 'The fetch function'
   - 'A reference error'
   - 'It depends // correct'
+allocatedTime: 30
 ---
 
 What gets logged when I try to log `fetch`?

@@ -7,6 +7,7 @@ date: '2019-09-27'
 answers:
   - 'woof // correct'
   - 'arf'
+allocatedTime: 40
 ---
 
 In this question, we have a `Dog` constructor function. Our dog obviously knows the speak command. What gets logged in the following example when we ask Pogo to speak?

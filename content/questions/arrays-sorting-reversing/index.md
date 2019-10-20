@@ -17,6 +17,7 @@ answers:
 [7, 5, 3, 25, 1]
 [7, 5, 3, 25, 1] // correct'
   - 'An error is thrown'
+allocatedTime: 30
 ---
 
 Consider the following two arrays and operations on them. What gets logged as a result of script execution ?

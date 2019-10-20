@@ -9,6 +9,7 @@ date: '2019-10-01'
 answers:
   - 'Yes'
   - 'No // correct'
+allocatedTime: 30
 ---
 
 Will the following function always return the greatest number in an array?

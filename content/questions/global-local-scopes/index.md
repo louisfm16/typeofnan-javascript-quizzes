@@ -11,6 +11,7 @@ answers:
   - undefined and 10 // correct
   - 5 and undefined
   - undefined and undefined
+allocatedTime: 30
 ---
 
 Consider the following code block. What gets logged?

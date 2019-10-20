@@ -11,6 +11,7 @@ answers:
   - 'true, true, true'
   - 'true, false, false'
   - 'false, false false'
+allocatedTime: 30
 ---
 
 Consider the following variables. What gets logged?

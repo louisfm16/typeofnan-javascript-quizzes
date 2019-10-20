@@ -10,6 +10,7 @@ answers:
   - 'true false'
   - 'false true // correct'
   - 'false false'
+allocatedTime: 30
 ---
 
 What gets logged when we test the following equality scenarios?

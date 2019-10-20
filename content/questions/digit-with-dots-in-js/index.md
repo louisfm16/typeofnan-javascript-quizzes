@@ -9,6 +9,7 @@ answers:
   - '[1, 2, 3, 4, 5]'
   - 'undefined // correct'
   - 'Syntax error'
+allocatedTime: 30
 ---
 
 What is the return of the following `console.log`?

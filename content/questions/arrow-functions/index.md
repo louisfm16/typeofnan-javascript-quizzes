@@ -11,6 +11,7 @@ answers:
   - 'Border Collie, undefined'
   - 'undefined, Wooh // correct'
   - 'undefined, undefined'
+allocatedTime: 30
 ---
 What are the return of the following `console.log`?
 

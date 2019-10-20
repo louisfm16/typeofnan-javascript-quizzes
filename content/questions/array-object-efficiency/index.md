@@ -10,6 +10,7 @@ date: '2019-09-29'
 answers:
   - 'a'
   - 'b // correct'
+allocatedTime: 30
 ---
 
 Both `a` and `b` are objects with the same properties and values. Which is created more efficiently?

@@ -8,6 +8,7 @@ date: '2019-09-29'
 answers:
   - '{ firstName: "Joe" }'
   - '{ firstName: "Pete" } // correct'
+allocatedTime: 30
 ---
 
 Consider objects `a` and `b` below. What gets logged?

@@ -8,6 +8,7 @@ date: '2019-09-27'
 answers:
   - '["first", "second"] // correct'
   - 'It is random'
+allocatedTime: 60
 ---
 
 In this question, we have a `timer` function that returns a `Promise` that resolves after a random amount of time. We use `Promise.all` to resolve an array of `timers`. What gets logged?

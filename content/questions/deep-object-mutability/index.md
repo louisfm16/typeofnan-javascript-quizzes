@@ -10,6 +10,7 @@ answers:
   - 'Daffodil // correct'
   - 'Buttercup'
   - 'An error is thrown'
+  allocatedTime: 45
 ---
 
 Consider the following object representing a user, Joe, and his dog, Buttercup. We use `Object.freeze` to preserve our object and then attempt to mutate Buttercup's name. What gets logged?

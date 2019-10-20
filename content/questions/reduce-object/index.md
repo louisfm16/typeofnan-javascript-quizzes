@@ -9,6 +9,7 @@ answers:
   - 'hello // correct'
   - 'eohll'
   - 'Order not guaranteed'
+allocatedTime: 30
 ---
 
 Consider the following code block. What gets logged?

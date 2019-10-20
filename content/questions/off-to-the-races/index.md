@@ -12,6 +12,7 @@ answers:
   - 'Oops!'
   - 'Something went wrong... // correct'
   - 'TypeError: Promise.race is not a function'
+allocatedTime: 30
 ---
 
 What gets logged?

@@ -9,6 +9,7 @@ answers:
   - 'first 3 2 // correct'
   - 'second 3 3'
   - 'first 3 3'
+allocatedTime: 30
 ---
 
 Consider the following declarations and expression. What gets logged?

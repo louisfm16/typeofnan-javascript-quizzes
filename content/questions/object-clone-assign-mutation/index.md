@@ -12,6 +12,7 @@ answers:
   - 'Joe Changed aReturn // correct'
   - 'Bob Nested bReturn'
 
+allocatedTime: 30
 ---
 
 Consider objects `a` and `b` below. What gets logged?

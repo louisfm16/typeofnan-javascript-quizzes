@@ -9,6 +9,7 @@ answers:
   - '"21" 1 // correct'
   - '"21" ""'
   - 'An error is thrown'
+allocatedTime: 30
 ---
 
 What gets logged in the following scenario?

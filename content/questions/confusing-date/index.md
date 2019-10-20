@@ -8,6 +8,7 @@ date: '2019-10-11'
 answers:
   - '1/1/2019 2/1/2019 // correct'
   - '1/1/2019 1/1/2019'
+allocatedTime: 30
 ---
 
 Consider the following code block which calls the Date constructor with 2 type of values. What will be the output of `console.log`?
